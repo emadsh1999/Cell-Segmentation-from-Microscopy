@@ -23,7 +23,7 @@ sourced from the Data Science Bowl 2018 nuclei segmentation challenge.
 ## Results
 | | |
 |---|---|
-| Sample image + combined mask | AI predictions vs real nuclei | **Average Dice Score: 0.8995**
+| Sample image + combined mask | AI predictions vs real nuclei |
 | ![sample](cell_sample.png) | ![predictions](cell_predictions.png) |
 
 ## Loss Curve
